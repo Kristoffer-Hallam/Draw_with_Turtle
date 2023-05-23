@@ -11,7 +11,7 @@ Repo for drawing coding with Turtle module
 * ### **BR_Flag_design**
 Design of the Brazilian flag using turtle package
 
-https://user-images.githubusercontent.com/15235685/226688704-19487841-d0f0-402c-8498-993506ca9cf2.mp4
+https://github.com/Kristoffer-Hallam/Draw_with_Turtle/assets/15235685/6b2bed77-b1f3-4cd7-b75f-0950684d4559
 
 ---
 
