@@ -37,6 +37,4 @@ Most of the features' distances and dimensions can be seen on the image below.
 
 ## Result
 
-https://user-images.githubusercontent.com/15235685/226688704-19487841-d0f0-402c-8498-993506ca9cf2.mp4
-
-
+https://github.com/Kristoffer-Hallam/Draw_with_Turtle/assets/15235685/4643c4e5-56c2-43e8-ada5-f0c3f86e3bd1
