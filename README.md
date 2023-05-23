@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/15235685/226688704-19487841-d0f0-402c-
 
 ---
 
-* ### **Christ Cross**
-Design of the Brazilian flag using turtle package
+* ### **Order Cross**
+Design of the Cross of the Order of Christ using turtle package
